@@ -11,6 +11,15 @@
 <br>
 
 
+<p align="center" style="font-family: 'Fira Code', monospace; font-size: 1.2em; line-height: 1.6;">
+  <span style="color: #C780FF;">Name:</span> <strong style="color: #A9A4FE;">Taiyo Yamada</strong> <br>
+  <span style="color: #C780FF;">Age:</span> <strong style="color: #A9A4FE;">20</strong> <br><br>
+  <a href="https://qiita.com/TaiyoYamada" target="_blank">
+    <img src="https://img.shields.io/badge/Qiita-Profile-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita Profile" />
+  </a>
+</p>
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Age-20-A9A4FE?style=for-the-badge&logoColor=black" />
   <a href="https://qiita.com/TaiyoYamada" target="_blank">
