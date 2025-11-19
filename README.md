@@ -27,5 +27,5 @@
 <br>
 
 <p align="center">
-  <img height="60" src="https://skillicons.dev/icons?i=swift,apple,python,ts,nodejs,laravel,vue,flutter,aws,docker,cloudflare,git,vscode,figma,xcode,firebase,mysql,postgresql" />
+  <img height="60" src="https://skillicons.dev/icons?i=swift,flutter,python,html,css,ts,vue,express,laravel,mysql,aws,docker,cloudflare" />
 </p>
