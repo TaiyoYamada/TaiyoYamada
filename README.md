@@ -8,6 +8,8 @@
 </p>
 
 <br>
+<br>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-20-A9A4FE?style=for-the-badge&logoColor=black" />
@@ -16,7 +18,10 @@
   </a>
 </p>
 
+
 <br>
+<br>
+
 
 <div align="center">
   <a href="https://github.com/TaiyoYamada">
@@ -28,8 +33,11 @@
   </a>
 </div>
 
+
 <br>
----
+<br>
+
+
 <p align="center">
   <img height="40" src="https://skillicons.dev/icons?i=swift,flutter,python,html,css,ts,vue,express,laravel,mysql,aws,docker,cloudflare" />
 </p>
