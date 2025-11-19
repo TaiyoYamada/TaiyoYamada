@@ -1,7 +1,7 @@
 <h1 align="center">🌌 Taiyo Yamada / 山田 大陽 🌌</h1>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/TaiyoYamada-Example/count.svg?color=C780FF&style=flat-square" />
+  <img src="https://profile-counter.glitch.me/TaiyoYamada/count.svg?color=C780FF&style=flat-square" />
 </p>
 
 <p align="center">
@@ -23,26 +23,26 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-  <a href="https://github.com/TaiyoYamada-Example">
-    <img src="https://github-readme-stats.vercel.app/api?username=TaiyoYamada-Example&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Taiyo's GitHub Stats" />
+  <a href="https://github.com/TaiyoYamada">
+    <img src="https://github-readme-stats.vercel.app/api?username=TaiyoYamada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Taiyo's GitHub Stats" />
   </a>
   <br/>
-  <a href="https://github.com/TaiyoYamada-Example">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiyoYamada-Example&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/TaiyoYamada">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiyoYamada&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 
 ## 🏆 Trophies & Streak
 
 <p align="center">
-  <a href="https://github.com/TaiyoYamada-Example">
-    <img src="https://github-profile-trophy.vercel.app/?username=TaiyoYamada-Example&theme=tokyonight&row=1&no-background=true&no-frame=true" alt="GitHub Trophies" />
+  <a href="https://github.com/TaiyoYamada">
+    <img src="https://github-profile-trophy.vercel.app/?username=TaiyoYamada&theme=tokyonight&row=1&no-background=true&no-frame=true" alt="GitHub Trophies" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/TaiyoYamada-Example">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaiyoYamada-Example&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
+  <a href="https://github.com/TaiyoYamada">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaiyoYamada&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
   </a>
 </p>
 
@@ -66,32 +66,10 @@
 
 ---
 
-## 🎨 Latest Projects
+## 🔗 My Web Presence
 
 <p align="center">
-  <table>
-    <tr>
-      <th>Project Alpha (iOS)</th>
-      <th>Project Beta (Web)</th>
-      <th>Project Gamma (Utility)</th>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/TaiyoYamada-Example/project-alpha"><img src="docs/screenshot1.png" width="95%" alt="Project Alpha Screenshot" /></a></td>
-      <td><a href="https://github.com/TaiyoYamada-Example/project-beta"><img src="docs/screenshot2.png" width="95%" alt="Project Beta Screenshot" /></a></td>
-      <td><a href="https://github.com/TaiyoYamada-Example/project-gamma"><img src="docs/screenshot3.png" width="95%" alt="Project Gamma Screenshot" /></a></td>
-    </tr>
-  </table>
-</p>
-
----
-
-## 🔗 Find Me Around The Web
-
-<p align="center">
-  <a href="https://x.com/your_x_account" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://qiita.com/your_qiita_account" target="_blank"><img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" /></a>
-  <a href="https://zenn.dev/your_zenn_account" target="_blank"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" /></a>
-  <a href="mailto:example@example.com"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://qiita.com/TaiyoYamada" target="_blank"><img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" /></a>
 </p>
 
 <p align="center">
