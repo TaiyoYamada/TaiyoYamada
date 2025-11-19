@@ -7,6 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=C780FF&center=true&vCenter=true&width=750&height=50&size=25&lines=I+am+passionate+about+Swift.;My+research+theme+is+Quantum+Algorithms." />
 </p>
 
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-20-A9A4FE?style=for-the-badge&logoColor=black" />
@@ -15,6 +16,7 @@
   </a>
 </p>
 
+<br>
 
 <div align="center">
   <a href="https://github.com/TaiyoYamada">
@@ -26,7 +28,8 @@
   </a>
 </div>
 
+<br>
 
 <p align="center">
-  <img height="50" src="https://skillicons.dev/icons?i=swift,flutter,python,html,css,ts,vue,express,laravel,mysql,aws,docker,cloudflare" />
+  <img height="40" src="https://skillicons.dev/icons?i=swift,flutter,python,html,css,ts,vue,express,laravel,mysql,aws,docker,cloudflare" />
 </p>
