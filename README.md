@@ -1,9 +1,3 @@
-<h1 align="center">🌌 Taiyo Yamada / 山田 大陽 🌌</h1>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/TaiyoYamada/count.svg?color=C780FF&style=flat-square" />
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:220044,100:6600AA&text=Taiyo%20Yamada&fontSize=60&fontAlign=50&fontAlignY=40&animation=twinkling&desc=iOS%20Developer%20|%20Swift%20Maestro&descAlignY=60&descColor=A9A4FE" />
 </p>
@@ -19,8 +13,6 @@
   <img src="https://img.shields.io/badge/TCA-latest-00FFFF?logo=swift&logoColor=black" />
   <img src="https://img.shields.io/badge/Vue.js-3-C780FF?logo=vuedotjs&logoColor=white" />
 </p>
-
-## 📊 GitHub Activity
 
 <div align="center">
   <a href="https://github.com/TaiyoYamada">
