@@ -3,14 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/TaiyoYamada/count.svg?color=C780FF&style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:220044,100:6600AA&text=Taiyo%20Yamada&fontSize=60&fontAlign=50&fontAlignY=40&animation=twinkling&desc=iOS%20Developer%20|%20Swift%20Maestro&descAlignY=60&descColor=A9A4FE" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=C780FF&center=true&vCenter=true&width=750&height=50&size=25&lines=I+am+passionate+about+Swift.;My+research+theme+is+Quantum+Algorithms." />
 </p>
 
