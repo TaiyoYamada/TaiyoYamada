@@ -7,12 +7,23 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Swift-6.0-C780FF?logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-17+-00FFFF?logo=apple&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3.11-A9A4FE?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TCA-latest-00FFFF?logo=swift&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-3-C780FF?logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Age-20-A9A4FE?style=for-the-badge&logoColor=black" />
+  <a href="https://qiita.com/TaiyoYamada" target="_blank">
+    <img src="https://img.shields.io/badge/Qiita-Link-55C500?style=for-the-badge&logo=qiita&logoColor=white" />
+  </a>
 </p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-6.0-C780FF?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-17+-00FFFF?style=for-the-badge&logo=apple&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3.11-A9A4FE?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TCA-latest-00FFFF?style=for-the-badge&logo=swift&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-3-C780FF?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+</p>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/TaiyoYamada">
@@ -24,46 +35,13 @@
   </a>
 </div>
 
-## 🏆 Trophies & Streak
+<br>
 
 <p align="center">
-  <a href="https://github.com/TaiyoYamada">
-    <img src="https://github-profile-trophy.vercel.app/?username=TaiyoYamada&theme=tokyonight&row=1&no-background=true&no-frame=true" alt="GitHub Trophies" />
-  </a>
+  <img height="60" src="https://skillicons.dev/icons?i=swift,apple,python,ts,nodejs,laravel,vue,flutter,aws,docker,cloudflare,git,vscode,figma,xcode,firebase,mysql,postgresql" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/TaiyoYamada">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaiyoYamada&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
-  </a>
-</p>
-
-## 🛠️ Core Tech Stack
 
 <p align="center">
-  <img height="55" src="https://skillicons.dev/icons?i=swift,apple,python,ts,nodejs,laravel,vue,flutter,aws,docker,cloudflare,git,vscode,figma,xcode,firebase,mysql,postgresql" />
-</p>
-
-<details>
-<summary>⚡ More Details</summary>
-  
-| Category | Stack |
-| :--- | :--- |
-| **Languages** | Swift, Python, TypeScript, PHP |
-| **iOS** | SwiftUI, UIKit, TCA, Combine |
-| **Web** | Vue 3, Laravel, Express, Flutter |
-| **Infra** | AWS, Docker, Cloudflare Workers |
-
-</details>
-
----
-
-## 🔗 My Web Presence
-
-<p align="center">
-  <a href="https://qiita.com/TaiyoYamada" target="_blank"><img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=330066&height=120&section=footer&text=Keep%20Exploring%20...&fontAlignY=40&fontSize=22&fontColor=C780FF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=330066&height=300&section=footer&text=&desc=" />
 </p>
