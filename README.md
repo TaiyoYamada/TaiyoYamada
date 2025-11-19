@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:220044,100:6600AA&text=Taiyo%20Yamada&fontSize=60&fontAlign=50&fontAlignY=40&animation=twinkling&desc=iOS%20Developer%20|%20Swift%20Maestro&descAlignY=60&descColor=A9A4FE" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:220044,100:6600AA&text=Taiyo%20Yamada&fontSize=60&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Developer&descAlignY=60&descColor=A9A4FE" />
 </p>
 
 <p align="center">
@@ -39,9 +39,4 @@
 
 <p align="center">
   <img height="60" src="https://skillicons.dev/icons?i=swift,apple,python,ts,nodejs,laravel,vue,flutter,aws,docker,cloudflare,git,vscode,figma,xcode,firebase,mysql,postgresql" />
-</p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=330066&height=300&section=footer&text=&desc=" />
 </p>
