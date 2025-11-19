@@ -23,3 +23,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiyoYamada&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </div>
+
+<p align="center">
+  <img height="60" src="https://skillicons.dev/icons?i=swift,flutter,python,html,css,ts,vue,express,laravel,mysql,aws,docker,cloudflare" />
+</p>
