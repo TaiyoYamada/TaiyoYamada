@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:220044,100:6600AA&text=Taiyo%20Yamada&fontSize=60&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Developer&descAlignY=60&descColor=A9A4FE" />
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=C780FF&center=true&vCenter=true&width=750&height=50&size=25&lines=I+am+passionate+about+Swift.;My+research+theme+is+Quantum+Algorithms." />
 </p>
@@ -14,6 +15,7 @@
   </a>
 </p>
 
+
 <div align="center">
   <a href="https://github.com/TaiyoYamada">
     <img src="https://github-readme-stats.vercel.app/api?username=TaiyoYamada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Taiyo's GitHub Stats" />
@@ -24,6 +26,7 @@
   </a>
 </div>
 
+
 <p align="center">
-  <img height="60" src="https://skillicons.dev/icons?i=swift,flutter,python,html,css,ts,vue,express,laravel,mysql,aws,docker,cloudflare" />
+  <img height="50" src="https://skillicons.dev/icons?i=swift,flutter,python,html,css,ts,vue,express,laravel,mysql,aws,docker,cloudflare" />
 </p>
