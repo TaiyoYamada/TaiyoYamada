@@ -6,24 +6,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=C780FF&center=true&vCenter=true&width=750&height=50&size=25&lines=I+am+passionate+about+Swift.;My+research+theme+is+Quantum+Algorithms." />
 </p>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Age-20-A9A4FE?style=for-the-badge&logoColor=black" />
   <a href="https://qiita.com/TaiyoYamada" target="_blank">
     <img src="https://img.shields.io/badge/Qiita-Link-55C500?style=for-the-badge&logo=qiita&logoColor=white" />
   </a>
 </p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Swift-6.0-C780FF?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-17+-00FFFF?style=for-the-badge&logo=apple&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3.11-A9A4FE?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TCA-latest-00FFFF?style=for-the-badge&logo=swift&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-3-C780FF?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-</p>
-
-<br>
 
 <div align="center">
   <a href="https://github.com/TaiyoYamada">
