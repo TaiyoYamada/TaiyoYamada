@@ -14,6 +14,15 @@
   </a>
 </p>
 
+<p align="center">
+  <span style="font-size: 1.1em;">
+    <span style="color: #A9A4FE;">👤 Age: **20**</span>
+    &nbsp; &nbsp; | &nbsp; &nbsp; 
+    <span style="color: #00FFFF;">📝 Link:</span>
+    <a href="https://qiita.com/TaiyoYamada" target="_blank">Qiita Profile</a>
+  </span>
+</p>
+
 <div align="center">
   <a href="https://github.com/TaiyoYamada">
     <img src="https://github-readme-stats.vercel.app/api?username=TaiyoYamada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Taiyo's GitHub Stats" />
@@ -27,5 +36,5 @@
 <br>
 
 <p align="center">
-  <img height="60" src="https://skillicons.dev/icons?i=swift,flutter,python,html,css,ts,vue,express,laravel,mysql,aws,docker,cloudflare" />
+  <img height="50" src="https://skillicons.dev/icons?i=swift,flutter,python,html,css,ts,vue,express,laravel,mysql,aws,docker,cloudflare" />
 </p>
