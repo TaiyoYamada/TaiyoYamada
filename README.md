@@ -11,18 +11,6 @@
 <br>
 
 
-<span style="color:#A9A4FE">＞ Name: Taiyo Yamada ＜</span>
-
-
-<span style="color:#C780FF">［ Age: 20 ］</span>
-
-
-
-<a href="https://qiita.com/TaiyoYamada" target="_blank">	
-<img src="https://img.shields.io/badge/Qiita-Profile-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita Profile" />	
-</a>
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Age-20-A9A4FE?style=for-the-badge&logoColor=black" />
   <a href="https://qiita.com/TaiyoYamada" target="_blank">
