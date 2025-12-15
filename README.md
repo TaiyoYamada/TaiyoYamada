@@ -24,6 +24,12 @@
 <br>
 
 <div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=TaiyoYamada&theme=darkhub&no-bg=true&column=7&margin-w=10" 
+    alt="GitHub Trophies" 
+    style="margin-bottom: 20px;"
+  />
+  
   <a href="https://github.com/TaiyoYamada">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiyoYamada&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_height=220" alt="Top Languages" />
   </a>
