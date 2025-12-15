@@ -14,9 +14,9 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-20-A9A4FE?style=for-the-badge&logoColor=black" height="50" alt="Age 20 Badge" />
+  <img src="https://img.shields.io/badge/Age-20-A9A4FE?style=for-the-badge&logoColor=black" height="80" alt="Age 20 Badge" />
   <a href="https://qiita.com/TaiyoYamada" target="_blank">
-    <img src="https://img.shields.io/badge/Qiita-Link-55C500?style=for-the-badge&logo=qiita&logoColor=white" height="50" alt="Qiita Link Badge" />
+    <img src="https://img.shields.io/badge/Qiita-Link-55C500?style=for-the-badge&logo=qiita&logoColor=white" height="80" alt="Qiita Link Badge" />
   </a>
 </p>
 
