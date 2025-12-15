@@ -21,6 +21,23 @@
 </p>
 
 
+
+<p align="center" style="margin-bottom: 30px;">
+  <span style="font-size: 80px; font-weight: bold; color: #A9A4FE; margin-right: 30px; letter-spacing: -5px;">
+    ❷⓿
+  </span>
+  
+  <a href="https://qiita.com/TaiyoYamada" target="_blank">
+    <img 
+      src="https://skillicons.dev/icons?i=qiita" 
+      height="80" 
+      alt="Qiita Profile Link" 
+    />
+  </a>
+</p>
+
+
+
 <br>
 <br>
 
