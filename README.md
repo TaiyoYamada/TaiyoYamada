@@ -25,10 +25,6 @@
 
 <div align="center">
   <a href="https://github.com/TaiyoYamada">
-    <img src="https://github-readme-stats.vercel.app/api?username=TaiyoYamada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&t=20251119&card_height=220" alt="Taiyo's GitHub Stats" />
-  </a>
-  
-  <a href="https://github.com/TaiyoYamada">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiyoYamada&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_height=220" alt="Top Languages" />
   </a>
 </div>
