@@ -30,8 +30,7 @@
 </div>
 
 
-<br>
-<br>
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <p align="center">
   <img height="40" src="https://skillicons.dev/icons?i=swift,flutter,python,html,css,ts,vue,nextjs,laravel,mysql,postgres,supabase,aws,docker,cloudflare" alt="My Skills" />
