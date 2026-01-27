@@ -25,8 +25,8 @@
 
 <div align="center">  
   <a href="https://github.com/TaiyoYamada">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiyoYamada&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_height=220" alt="Top Languages" />
-    <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=TaiyoYamada&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaiyoYamada&layout=compact&langs_count=8&theme=dracula&hide_border=true&card_height=220" alt="Top Languages" />
+    <img alt="github stats" height="190px" src="https://github-readme-stats.vercel.app/api?username=TaiyoYamada&show_icons=true&theme=dracula" />
   </a>
 </div>
 
