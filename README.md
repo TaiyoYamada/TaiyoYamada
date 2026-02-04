@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="./header-bg.svg" width="100%" alt="Taiyo Yamada's animated header">
-</p>
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=C780FF&center=true&vCenter=true&width=750&height=50&size=25&lines=I+am+passionate+about+Swift.;My+research+theme+is+Quantum+Algorithms." />
 </p>
 
